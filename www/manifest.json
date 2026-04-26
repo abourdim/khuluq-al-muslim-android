@@ -1,0 +1,12 @@
+{
+  "name": "The Muslim's Character — خلق المسلم",
+  "short_name": "خلق المسلم",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on Islamic ethics",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2E7D32",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
